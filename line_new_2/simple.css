@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+
+.title{
+    font-family: serif;
+    text-align: center;
+}
+
+.write{
+    text-align: center;
+}
+
+.gazou{
+    width: 300px;
+    height: 200px;
+}
+
+.twin{
+    text-align: center;
+}
